@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Saves>
+  <Save name="Kevin_1" level="2" screen="s1_thumb.png">
+    <Health value="60" />
+    <Ammo>
+      10 4 50 100
+    </Ammo>
+    This is some data text
+  </Save>
+  <Save name="Kevin_2" level="1" screen="s2_thumb.png">
+    <Health value="100" />
+    <Ammo>
+      100 41 10 0
+    </Ammo>
+    Here is more text
+  </Save>
+</Saves>

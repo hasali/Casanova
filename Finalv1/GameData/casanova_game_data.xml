@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_data>
+	<high_score>
+		<first>
+			<name>Alissa</name>
+			<score>500</score>
+		</first>
+		<second>
+			<name>Lucas</name>
+			<score>400</score>
+		</second>
+		<third>
+			<name>Hassan</name>
+			<score>300</score>
+		</third>
+		<fourth>
+			<name>Stitch</name>
+			<score>200</score>
+		</fourth>
+		<fifth>
+			<name>Pusheen</name>
+			<score>100</score>
+		</fifth>
+	</high_score>
+	<settings>
+		<music>
+			<is_playing>true</is_playing>
+		</music>
+		<sfx>
+			<is_playing>true</is_playing>
+		</sfx>
+	</settings>
+	<character_select>
+		<blue_dino>Blue Dinosaur</blue_dino>
+		<purple_dino>Purple Dinosaur</purple_dino>
+	</character_select>
+</game_data>
